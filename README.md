@@ -3,6 +3,6 @@
 ### requirement
 ```
 docker
-openvpn
+openvpn (10.8.0.0/24)
 filebeat
 ```
